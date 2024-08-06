@@ -1,2 +1,2 @@
 # Automacao-web-com-python
-Curso do Senai sobre python, primeiro exercício testando automação utilizando a linguagem python.
+Curso do Senai sobre python, primeiro exercício testando automação utilizando a linguagem python com a biblioteca Selenium.
